@@ -8,7 +8,7 @@ Scanner obj = new Scanner(System.in);
 int num1, num2;
 System.out.println("Enter the firstt number: ");
 num1 = obj.nextInt();
-System.out.println("Enter the second number: ");
+System.out.println("Enter the secondd number: ");
 num2 = obj.nextInt();
 if(num2==0)
 {
